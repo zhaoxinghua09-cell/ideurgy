@@ -1,7 +1,7 @@
 ---
 name: ideurgy
 description: "Use when generating creative candidates systematically with error-seeking filtering. 当需要系统化生成创意候选并带找错筛选时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
