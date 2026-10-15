@@ -1,21 +1,55 @@
-# 创意工程术（ideurgy）
+---
+name: ideurgy
+description: "Use when generating creative candidates systematically with error-seeking filtering. 当需要系统化生成创意候选并带找错筛选时使用。"
+license: ARR
+type: term-registration
+namespace: lgd.terms
+version: v1.1
+registered_at: 2026-10-15
+doi: https://doi.org/10.5281/zenodo.23385209
+family: meta-layer-creation
+related: [lgd-doctrine]
+---
 
-> 命名注册（Term Registration Claim）· 注册日期：2026-10-14
-> 所属体系：LGD 治理学（凡自治之物）· 元层家族
+# Ideurgy · 创意工程术
 
-## 定义
-创意的系统化生成：发散→分类→筛选→收敛→落地。创意的候选必须过证据/查重/实测三纪律。
+> Term Registration Claim · Registered: 2026-10-15 ｜ 命名注册声明 · 注册日期：2026-10-15
+> System: Lifecycle Governance Doctrine (LGD) · LGD Meta-Layer Creation Family (-urgy) ｜ 所属体系：LGD 治理学 · LGD 元层创造术家族（-urgy）
 
-## 查重声明
-已执行 R1/R2 多轮查重（学术/代码/包/域名/变体/短语），全维度 0 占用 🟢 FREE（证据：查重报告 v1/v2，日期 2026-10-14）。
+## When to use / 何时使用
 
-## 相关理论
-- LGD 三律：有籍/有证/有门禁
-- 自举闭合律
-- 车轮式进化（渐进完善律）
+**EN**
+Use when generating creative candidates systematically with error-seeking filtering.
 
-## 权利声明
-理论保留所有权利（ARR）；未来代码示例 Apache-2.0/MIT 分层。
+**ZH**
+当需要系统化生成创意候选并带找错筛选时使用。
 
-## 联系
-LGD 治理学项目（双 GitHub 账号体系：zhaoxinghua09-cell / stevenzhao07）
+## Definition / 定义
+
+**EN**
+Ideurgy is the engineering of ideation: generating creative candidates systematically through divergence, categorization, error-seeking filtering, convergence, and landing. Candidates are not conclusions; they must pass evidence, prior-art, and empirical validation.
+
+**ZH**
+创意工程术是创意的系统化生成：发散→分类→筛选（带找错）→收敛→落地。创意的候选必须过证据/查重/实测三纪律。
+
+## Verification / 查重与验证
+
+**EN**
+Multi-round full-dimension prior-art search: zero conflicts (R1+R2, 2026-10-14).
+
+**ZH**
+已执行多轮全维度查重，全维度 0 占用（R1+R2，2026-10-14）。
+
+## Rights / 权利声明
+
+**EN**
+Theory claims ARR; future code examples Apache-2.0/MIT layered.
+
+**ZH**
+理论主张 ARR；未来代码示例 Apache-2.0/MIT 分层。
+
+## Links / 链接
+
+- GitHub: https://github.com/zhaoxinghua09-cell/ideurgy
+- DOI: https://doi.org/10.5281/zenodo.23385209
+- Registry index: https://github.com/zhaoxinghua09-cell/placeholdurgy
