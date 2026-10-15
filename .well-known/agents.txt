@@ -1,0 +1,3 @@
+agent-name: ideurgy
+contact: https://github.com/zhaoxinghua09-cell/ideurgy
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
